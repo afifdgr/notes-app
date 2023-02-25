@@ -5,5 +5,5 @@ const notes = getNotes();
 
 console.log(notes);
 
-const green = chalk.green.bold("test");
+const green = chalk.red.bold("test");
 console.log(green);
