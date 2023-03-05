@@ -1,1 +1,4 @@
-[{"title":"t","body":"b"},{"title":"new","body":"b"},{"title":"new","body":"baa"},{"title":"newa","body":"baa"}]
+[
+  { "title": "new", "body": "b" },
+  { "title": "new", "body": "baa" }
+]
